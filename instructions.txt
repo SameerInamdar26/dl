@@ -1,1 +1,8 @@
+# if you have to make virtual envoirment
+# python -m venv tf_env
+# tf_env\Scripts\activate
+
+# dependencies need to Install
+# pip install tensorflow scikit-learn pandas numpy 
+ 
  
